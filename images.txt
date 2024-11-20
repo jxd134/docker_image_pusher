@@ -1,14 +1,2 @@
-nginx:1.27.2-alpine
-mysql:8.4.3 --platform=linux/amd64
 alpine:3.20.3 --platform=linux/amd64
-amazoncorretto:8u432-al2-native-jdk --platform=linux/amd64
-amazoncorretto:17.0.13-al2-native-jdk --platform=linux/amd64
-amazoncorretto:11.0.25-al2-native-jdk --platform=linux/amd64
-eclipse-temurin:8u432-b06-jdk --platform=linux/amd64
-eclipse-temurin:17.0.13_11-jdk --platform=linux/amd64
-redis:6.2.16-alpine
-golang:1.23-alpine
-golang:1.22.9-alpine
-openresty/openresty:1.21.4.1-0-jammy
-openresty/openresty:1.21.4.1-0-alpine
 busybox --platform=linux/amd64
