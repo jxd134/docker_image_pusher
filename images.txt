@@ -1,2 +1,1 @@
-alpine:3.20.3 --platform=linux/amd64
-busybox --platform=linux/amd64
+redis:7.4.1-alpine --platform=linux/amd64
