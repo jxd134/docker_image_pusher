@@ -1,4 +1,4 @@
-nginx:1.27.2 --platform=linux/amd64
+nginx:1.27.2-alpine
 mysql:8.4.3 --platform=linux/amd64
 alpine:3.20.3 --platform=linux/amd64
 amazoncorretto:8u432-al2-native-jdk --platform=linux/amd64
