@@ -1,1 +1,2 @@
 redis:7.4.1-alpine
+sunnywang/redis-tools-ubuntu:v0.5.1
