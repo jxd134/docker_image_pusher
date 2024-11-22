@@ -1,2 +1,2 @@
-redis:7.4.1-alpine
-sunnywang/redis-tools-ubuntu:v0.5.1
+kubernetes/ingress-nginx
+nginx/nginx-ingress:3.7.1-alpine
