@@ -1,2 +1,1 @@
-kubernetes/ingress-nginx
-nginx/nginx-ingress:3.7.1-alpine
+csiplugin/snapshot-controller:v4.0.0
