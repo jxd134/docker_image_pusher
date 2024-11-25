@@ -1,1 +1,3 @@
-csiplugin/snapshot-controller:v4.0.0
+tomcat:8.0.52-jre7-alpine
+tomcat:9.0.97-jdk8-temurin-noble
+tomcat:9-jdk11-temurin-noble
