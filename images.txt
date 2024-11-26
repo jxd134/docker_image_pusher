@@ -1,5 +1,5 @@
 kubesphere/ks-controller-manager:v3.4.1
 kubesphere/ks-apiserver:v3.4.1
 kubesphere/kube-state-metrics:v2.6.0
-csiplugin/snapshot-controller:v4.0.
+csiplugin/snapshot-controller:v4.0.0
 
