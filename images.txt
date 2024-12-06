@@ -1,2 +1,1 @@
-ghcr.io/dexidp/dex:v2.41.1
-redis:7.0.15-alpine
+redis/redisinsight:2.62
