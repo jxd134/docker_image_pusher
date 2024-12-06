@@ -1,1 +1,1 @@
-redis/redisinsight:2.62
+apacherocketmq/rocketmq-dashboard:latest
