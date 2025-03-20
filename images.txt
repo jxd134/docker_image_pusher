@@ -1,1 +1,1 @@
-webp-server-go:0.13.3
+webpsh/webp-server-go:0.13.3
