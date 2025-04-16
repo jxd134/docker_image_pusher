@@ -1,1 +1,1 @@
-webpsh/webp-server-go:0.13.3
+openjdk:25-ea-17-jdk-slim-bullseye
