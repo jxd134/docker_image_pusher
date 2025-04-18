@@ -1,1 +1,1 @@
-openjdk:17-ea-jdk-buster
+webpsh/webp-server-go:0.13.5
