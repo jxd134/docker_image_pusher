@@ -1,2 +1,1 @@
-mysql:8.4.7
-amazoncorretto:17.0.17
+webpsh/webp-server-go:0.14.1
