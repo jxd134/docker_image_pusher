@@ -1,1 +1,1 @@
-amazoncorretto:17.0.17
+amazoncorretto:21.0.9
