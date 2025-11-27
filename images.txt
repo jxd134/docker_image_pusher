@@ -1,1 +1,1 @@
-webpsh/webp-server-go:0.14.1
+amazoncorretto:17.0.17
