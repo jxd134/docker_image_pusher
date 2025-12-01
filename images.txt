@@ -1,1 +1,1 @@
-amazoncorretto:21.0.9
+amazoncorretto:21.0.9-alpine3.22
