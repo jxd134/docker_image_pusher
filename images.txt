@@ -1,1 +1,1 @@
-amazoncorretto:21.0.9-alpine3.22
+docker pull amazoncorretto:25.0.1
