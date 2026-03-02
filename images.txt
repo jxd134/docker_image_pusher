@@ -1,1 +1,1 @@
-nginx:1.29.5-trixie
+25.0.2-alpine3.23
