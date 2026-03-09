@@ -1,1 +1,1 @@
-amazoncorretto:25.0.2-alpine3.23
+ubuntu/rust:1.75-24.04_stable
