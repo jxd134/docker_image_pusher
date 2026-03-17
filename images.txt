@@ -1,2 +1,4 @@
-grafana/promtail:3.1.1
+grafana/loki:3.1.1
+grafana/grafana:11.1.4
 prom/node-exporter:v1.8.2
+prom/prometheus:v2.54.1
