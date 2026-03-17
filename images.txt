@@ -1,1 +1,1 @@
-ubuntu/rust:1.75-24.04_stable
+golang:1.26-alpine
