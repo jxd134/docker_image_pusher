@@ -1,1 +1,1 @@
-golang:1.26-alpine
+rust:1.94.1
