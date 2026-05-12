@@ -1,1 +1,2 @@
 eclipse-temurin:25.0.3_9-jdk
+nginx:1.30.0-trixie-perl
